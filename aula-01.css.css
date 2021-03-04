@@ -1,0 +1,24 @@
+
+.div_1{
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+}
+
+.div_2{
+    width: 100%;
+    height: 400px;
+    background-color: crimson;
+}
+
+.div_3{
+    width: 100%;
+    height: 50px;
+    background-color: darkgreen;
+}
+
+.div_4 {
+    width: 100%;
+    height: 50px;
+    background-color: darkorange;
+}
